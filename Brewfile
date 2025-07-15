@@ -8,11 +8,6 @@
 cask_args appdir: '~/Applications', require_sha: true
 
 # Taps
-tap "homebrew/bundle"
-tap "homebrew/cask"
-tap "homebrew/core"
-tap "homebrew/cask-fonts"
-
 
 # Brew
 brew "asciinema"
