@@ -1,8 +1,8 @@
 
-<h1 align="center">Lissy93/Brewfile</h1>
+<h1 align="center">imrellx/Brewfile</h1>
 <p align="center"><i>My list of *nix packages to be installed on MacOS via Homebrew, for the ultimate dev setup</i></p>
 <p align="center">
-  <a href="https://github.com/lissy93/brewfile/">
+  <a href="https://github.com/imrellx/brewfile/">
     <img width="120" src="https://i.ibb.co/LhhDNg7/brewfile-repo-logo.png" />
   </a>
 </p>
