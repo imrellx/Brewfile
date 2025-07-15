@@ -19,7 +19,7 @@ To get started, install [Homebrew](https://docs.brew.sh/Installation), then just
 Alternatively, there's a guided install process, which can be initiated with:
 
 ```bash
-bash <(curl -s https://lissy93.github.io/Brewfile/install.sh)
+bash <(curl -s https://imrellx.github.io/Brewfile/install.sh)
 ```
 
 <p align="center">
