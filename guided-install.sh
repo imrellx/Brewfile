@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ######################################################################
-# 🍺 Lissy93/Brewfile - All-in-one install script                    #
+# 🍺 imrellx/Brewfile - All-in-one install script                    #
 ######################################################################
 # Sets up Homebrew, downloads Brewfile, and bundles listed packages  #
 # IMPORTANT: Before running, read through everything very carefully! #
