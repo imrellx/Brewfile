@@ -21,13 +21,6 @@ Alternatively, there's a guided install process, which can be initiated with:
 ```bash
 bash <(curl -s https://imrellx.github.io/Brewfile/install.sh)
 ```
-
-<p align="center">
-  <a href="https://imrellx.github.io/Brewfile" title="Screenshot of the guided installation script">
-    <img width="650" src="https://i.ibb.co/g63WYBF/brewfile-install-script.png" alt="Brewfile automated installation script" />
-  </a>
-</p>
-
 >  [!NOTE]
 > To keep track of your own personal package list [fork](https://github.com/Lissy93/Brewfile/fork) this repo<br>
 > And don't forget to replace [lissy93] with your own username!
