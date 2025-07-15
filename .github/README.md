@@ -315,26 +315,18 @@ The following packages will be installed, with the aim to setup a fully-featured
 ## Bigger Picture
 
 The Brewfile is really useful to incorporate into your dotfiles, or for quickly setting up new machines.
-You can see how I am using this in [Lissy93/Dotfiles](https://github.com/Lissy93/dotfiles).
+You can see how I am using this in [Lixxy93/Dotfiles](https://github.com/Lissy93/dotfiles).
 Other package managers have similar features. For example, [here's the scripts](https://github.com/Lissy93/dotfiles/tree/master/scripts/installs) I use to manage my package list for Arch, Debian, Alpine and MacOS.
 
 ---
 
-## Contributing
-
-Contributions are welcome :)
-If you're new to GitHub, see the [documentation](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) for a step-by-step guide on how to submit edits to projects.
-
-Changes to the Brewfile should be made up-stream, directly into [Lissy93/Dotfiles](https://github.com/lissy93/dotfiles) (in [`Brewfile`](https://github.com/Lissy93/dotfiles/blob/master/scripts/installs/Brewfile)), which will then be automatically synced to this repo.
-
----
 
 ## License
 
 > [!NOTE]
 > > For licenses for each package listed here, see their websites _(linked to [above](#package-list))_.
 
-> _**[Lissy93/Brewfile](https://github.com/Lissy93/Brewfile)** is licensed under [MIT](https://github.com/Lissy93/Brewfile/blob/HEAD/LICENSE) © [Alicia Sykes](https://aliciasykes.com) 2022._<br>
+> _**[imrellx/Brewfile](https://github.com/imrellx/Brewfile)** is licensed under [MIT](https://github.com/Lissy93/Brewfile/blob/HEAD/LICENSE) _<br>
 > <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
 
 <details>
@@ -367,13 +359,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ---
 
 <!-- License + Copyright -->
-<p  align="center">
-  <i>© <a href="https://aliciasykes.com">Alicia Sykes</a> 2022-23</i><br>
-  <i>Licensed under <a href="https://gist.github.com/Lissy93/143d2ee01ccc5c052a17">MIT</a></i><br>
-  <a href="https://github.com/lissy93"><img src="https://i.ibb.co/4KtpYxb/octocat-clean-mini.png" /></a><br>
-  <sup>Thanks for visiting :)</sup>
-</p>
-
 <!-- Dinosaur -->
 <!-- 
                         . - ~ ~ ~ - .
