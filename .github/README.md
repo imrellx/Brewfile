@@ -323,12 +323,6 @@ Other package managers have similar features. For example, [here's the scripts](
 
 ## License
 
-> [!NOTE]
-> > For licenses for each package listed here, see their websites _(linked to [above](#package-list))_.
-
-> _**[imrellx/Brewfile](https://github.com/imrellx/Brewfile)** is licensed under [MIT](https://github.com/Lissy93/Brewfile/blob/HEAD/LICENSE) _<br>
-> <sup align="right">For information, see <a href="https://tldrlegal.com/license/mit-license">TLDR Legal > MIT</a></sup>
-
 <details>
 <summary>Expand License</summary>
 
