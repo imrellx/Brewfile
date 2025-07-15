@@ -64,7 +64,7 @@ brew "zsh-autopair"
 brew "zsh-autosuggestions"
 brew "zsh-history-substring-search"
 brew "zsh-syntax-highlighting"
-brew 'gemini-cli'
+brew "gemini-cli"
 
 # Cask
 cask "1password"
