@@ -17,7 +17,7 @@ tap "homebrew/cask-fonts"
 # Brew
 brew "asciinema"
 brew "bat"
-brew "bun"
+# brew "bun"
 brew "eza"
 brew "fd"
 brew "ffmpeg"
