@@ -61,7 +61,7 @@ install_apps () {
 }
 
 show_intro () {
-  echo -e "\n${QUESTION_COLOR}🍺 Lissy93/Brewfile - Installation Script${RESET}"
+  echo -e "\n${QUESTION_COLOR}🍺 imrellx/Brewfile - Installation Script${RESET}"
   echo -e "${INFO_COLOR}The following steps will be taken:"
   echo "- Check Homebrew is installed, prompt to download if not"
   echo "- If no Brewfile present, download from GitHub, othwesise prompt user"
