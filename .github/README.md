@@ -12,7 +12,7 @@
 
 
 
-To get started, install [Homebrew](https://docs.brew.sh/Installation), then just download the [`Brewfile`](https://github.com/Lissy93/Brewfile/blob/master/Brewfile) to `~/.Brewfile`, make any desired changes, and run `brew bundle --global` to install the listed packages. Done 🍻
+To get started, install [Homebrew](https://docs.brew.sh/Installation), then just download the [`Brewfile`](https://github.com/Lissy93/Brewfile/blob/master/Brewfile) to `~/.Brewfile`, make any desired changes, and run `brew bundle --global` to install the listed packages. Done, but that didn't work for me. I ended up getting the file locally on my home ~/ and issued the `brew bundle --file .Brewfile`.🍻 
 
 ---
 
