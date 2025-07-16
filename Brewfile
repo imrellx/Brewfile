@@ -60,6 +60,8 @@ brew "repomix"
 brew "bun"
 brew "yarn"
 brew "uv"
+brew "pipx"
+brew "pnpn"
 
 # Cask
 cask "1password"
