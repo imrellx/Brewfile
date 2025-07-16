@@ -10,9 +10,7 @@
 
 ## Getting Started
 
-
-
-To get started, install [Homebrew](https://docs.brew.sh/Installation), then just download the [`Brewfile`](https://github.com/Lissy93/Brewfile/blob/master/Brewfile) to `~/.Brewfile`, make any desired changes, and run `brew bundle --global` to install the listed packages. Done, but that didn't work for me. I ended up getting the file locally on my home ~/ and issued the `brew bundle --file .Brewfile`.🍻 You have to make sure that. $HOMEBREW_BUNDLE_FILE_GLOBAL (if set), ${XDG_CONFIG_HOME}/homebrew/Brewfile (if $XDG_CONFIG_HOME is set) In your zsh environment, which is in our case, make sure Brewfile exists under the Homebrew folder in your XDG_CONFIG_HOME. ie ./config/homebrew/Brewfile 
+To get started, install [Homebrew](https://docs.brew.sh/Installation), then just download the [`Brewfile`](https://github.com/Lissy93/Brewfile/blob/master/Brewfile) to `~/.Brewfile`, make any desired changes, and run `brew bundle --global` to install the listed packages. Done, but that didn't work for me. I ended up getting the file locally on my home ~/ and issued the `brew bundle --file .Brewfile`.🍻 You have to make sure that. $HOMEBREW_BUNDLE_FILE_GLOBAL (if set), ${XDG_CONFIG_HOME}/homebrew/Brewfile (if $XDG_CONFIG_HOME is set) In your zsh environment, which is in our case, make sure Brewfile exists under the Homebrew folder in your XDG_CONFIG_HOME. ie ./config/homebrew/Brewfile
 ---
 
 Alternatively, there's a guided install process, which can be initiated with:
