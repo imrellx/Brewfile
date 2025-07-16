@@ -4,8 +4,11 @@
 # List of packages to be installed / updated via Homebrew   #
 #############################################################
 
+# Note:
+# cask_args appdir: '~/Applications', require_sha: true This was the original line, but applications are getting installed in the wrong folder that way. 
+# Also, you can possibly remove the require_sha, because there are a couple of repos which didn't have SHA. 
+
 # Options
-# cask_args appdir: '~/Applications', require_sha: true
 cask_args appdir: '/Applications', require_sha: true
 
 # Taps
@@ -13,7 +16,7 @@ cask_args appdir: '/Applications', require_sha: true
 # Brew
 brew "asciinema"
 brew "bat"
-# brew "bun"
+# brew "bun" # will use mise
 brew "eza"
 brew "fd"
 brew "ffmpeg"
@@ -24,7 +27,7 @@ brew "git-absorb"
 brew "helix"
 brew "ipcalc"
 brew "jj"
-# brew "jq"
+# brew "jq" # will use mise
 brew "just"
 brew "lazydocker"
 brew "lazygit"
@@ -33,15 +36,15 @@ brew "mas"
 brew "mise"
 brew "neovim"
 brew "pandoc"
-# brew "pipx"
-# brew "pnpm"
+# brew "pipx" # will use mise
+# brew "pnpm" # will use mise
 brew "ripgrep"
 brew "sqlite"
 brew "starship"
 brew "stow"
 brew "superfile"
 brew "unar"
-# brew "uv"
+# brew "uv" # will use mise
 brew "wget"
 brew "yadm"
 brew "yazi"
