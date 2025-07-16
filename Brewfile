@@ -56,6 +56,10 @@ brew "zsh-autosuggestions"
 brew "zsh-history-substring-search"
 brew "zsh-syntax-highlighting"
 brew "gemini-cli"
+brew "repomix"
+brew "bun"
+brew "yarn"
+brew "uv"
 
 # Cask
 cask "1password"
